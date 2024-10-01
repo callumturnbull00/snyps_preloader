@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://cdn.jsdelivr.net/gh/callumturnbull00/snyps_preloader/bouncing-ball.svg';
+svgImage.src = 'https://cdn.jsdelivr.net/gh/callumturnbull00/snyps_preloader/SnypsSVG.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
